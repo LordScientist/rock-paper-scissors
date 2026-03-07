@@ -1,3 +1,5 @@
+// Prompt user to visit the console to see what goes on
+alert("Please Press 'F12' to view what goes on in the game in the console. ")
 let all_input = ""
 
 function computerChoice()
